@@ -18,6 +18,7 @@
   <classpaths>
     <class path="src" />
     <class path="..\libs" />
+    <class path="c:\dev\away3d-core-fp11\src" />
   </classpaths>
   <!-- Build options -->
   <build>
